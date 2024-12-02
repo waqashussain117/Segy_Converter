@@ -168,31 +168,6 @@ Provides detailed insights into the trace structure of the SEGY file:
 - **Trace Sizes:** Detects and reports non-uniform trace sizes.
 - **Inline/Crossline Ranges:** Analyzes the range and grid dimensions of inline and crossline numbers.
 
-## Examples
-
-### Example 1: Standardizing a SEGY File
-
-1. **Select Input File:**
-
-   ![Input File Selection](https://example.com/input_file_selection.png)
-
-2. **Specify Output File:**
-
-   ![Output File Selection](https://example.com/output_file_selection.png)
-
-3. **Choose Options:**
-
-   ![Options Selection](https://example.com/options_selection.png)
-
-4. **Conversion Success:**
-
-   ![Conversion Success](https://example.com/conversion_success.png)
-
-### Example 2: Handling Errors
-
-If the selected SEGY file is corrupted or does not conform to expected standards, an error message will appear:
-
-![Error Message](https://example.com/error_message.png)
 
 ## Troubleshooting
 
