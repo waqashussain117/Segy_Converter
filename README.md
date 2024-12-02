@@ -26,7 +26,7 @@
 
 The **SEGY File Converter** is a user-friendly Python application designed to validate and standardize SEGY (Standard for the Exchange of Geophysical Data) files. Whether you're a geophysicist, data analyst, or developer working with seismic data, this tool ensures your SEGY files adhere to industry standards, specifically tailoring them for PZero compatibility.
 
-![Alt Text](C:\Users\Waqas Hussain\OneDrive - Università degli Studi di Milano-Bicocca\Documents\segy_converter\Segy_Converter\image.png)
+![Alt Text](/image.png)
 
 ## Features
 
