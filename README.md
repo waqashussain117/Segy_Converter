@@ -188,7 +188,7 @@ Provides detailed insights into the trace structure of the SEGY file:
 
 ## License
 
-This project is licensed under the [GNPU](LICENSE). You are free to use, modify, and distribute this software as per the terms of the license.
+This project is licensed under the [GNU](LICENSE). You are free to use, modify, and distribute this software as per the terms of the license.
 
 ## Contributing
 
