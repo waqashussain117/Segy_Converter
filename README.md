@@ -1,6 +1,5 @@
 # SEGY File Converter
 
-![SEGY Converter Logo](https://example.com/logo.png) <!-- Replace with actual logo if available -->
 
 ## Table of Contents
 
